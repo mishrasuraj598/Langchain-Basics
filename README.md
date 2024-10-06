@@ -1,3 +1,7 @@
+# Langchain basics notebooks
+
+## Creating a new python environment
+
 ```bash
 conda create -n langchain-env python=3.10 -y        # Create a new conda environment
 conda activate langchain-env                        # Activate the conda environment
